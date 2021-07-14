@@ -2,6 +2,10 @@
  
 - React를 이용해서 습관 추가 어플 만들기<br>
 
+# Skills
+- React JS
+- HTML / CSS
+
 # 기능
 
 - 습관을 ADD를 통해 추가할 수 있다<br>
