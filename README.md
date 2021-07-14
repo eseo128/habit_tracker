@@ -6,7 +6,7 @@
 - React JS
 - HTML / CSS
 
-# 기능
+# Functions
 
 - 습관을 ADD를 통해 추가할 수 있다<br>
 - 추가된 습관들을 실행할 때마다 +를 사용해서 숫자를 증가시킨다<br>
@@ -16,5 +16,8 @@
 - Reset All 버튼을 통해 모든 습관의 숫자들을 초기화 시킬 수 있다<br>
 - 배포 사이트 : https://eseo128.github.io/habit_tracker/
 
-# 이미지
+# Acknowledgements
+- <a href="https://fontawesome.com/">Font Awesome</a>
+
+# images
 ![image](https://user-images.githubusercontent.com/34049770/125617060-2de8d0e1-6baa-4955-beaa-ca749b49ee4e.png)
