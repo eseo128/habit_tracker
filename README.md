@@ -1,6 +1,7 @@
 # Eunseo's Habit-tracker
  
 - React를 이용해서 습관 추가 어플 만들기<br>
+- 배포 사이트 : https://eseo128.github.io/habit_tracker/
 
 # Tool Stack
 <p>
@@ -18,7 +19,7 @@
 - 1 이상인 습관들의 갯수를 navbar_count에 카운트한다<br>
 - 휴지통을 이용하여 습관들을 삭제할 수 있다<br>
 - Reset All 버튼을 통해 모든 습관의 숫자들을 초기화 시킬 수 있다<br>
-- 배포 사이트 : https://eseo128.github.io/habit_tracker/
+
 
 # Acknowledgements
 - <a href="https://fontawesome.com/">Font Awesome</a>
